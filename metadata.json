@@ -1,0 +1,6 @@
+{
+  "name": "DomainPulse - Enterprise Domain & Uptime Monitor",
+  "description": "Internal enterprise domain checker platform for monitoring SSL, RDAP/WHOIS expiration, uptime health, alert bot channels, and secure data synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

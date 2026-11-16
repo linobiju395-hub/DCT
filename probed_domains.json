@@ -1,0 +1,1226 @@
+[
+  {
+    "domain": "skillown.com",
+    "company": "Skillown",
+    "expires": "2027-04-20",
+    "current_status": "degraded",
+    "http_status": 403,
+    "latency_ms": 924,
+    "dns_resolved": true
+  },
+  {
+    "domain": "sellmytalk.com",
+    "company": "Sellmytalk",
+    "expires": "2027-07-21",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 1750,
+    "dns_resolved": true
+  },
+  {
+    "domain": "gooseberoid.com",
+    "company": "Gooseberoid",
+    "expires": "2027-06-07",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 901,
+    "dns_resolved": true
+  },
+  {
+    "domain": "webcoffee.in",
+    "company": "Webcoffee Innovations Pvt Ltd",
+    "expires": "2027-02-25",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 448,
+    "dns_resolved": true
+  },
+  {
+    "domain": "webcoffee.ae",
+    "company": "Webcoffee Innovations",
+    "expires": "2026-11-11",
+    "current_status": "degraded",
+    "http_status": 200,
+    "latency_ms": 3102,
+    "dns_resolved": true
+  },
+  {
+    "domain": "mammacan.com",
+    "company": "Mammacan",
+    "expires": "2026-11-18",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 121,
+    "dns_resolved": false
+  },
+  {
+    "domain": "melhorllc.com",
+    "company": "Melhor LLC",
+    "expires": "2027-07-15",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 1708,
+    "dns_resolved": true
+  },
+  {
+    "domain": "miahy.com",
+    "company": "Miahy",
+    "expires": "2027-02-01",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 622,
+    "dns_resolved": true
+  },
+  {
+    "domain": "nowown.me",
+    "company": "Nowown",
+    "expires": "2026-11-13",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 5000,
+    "dns_resolved": true
+  },
+  {
+    "domain": "zoxfit.com",
+    "company": "Zoxfit / HugeDomains",
+    "expires": "2027-08-10",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 977,
+    "dns_resolved": true
+  },
+  {
+    "domain": "melhoraccounts.com",
+    "company": "Melhor Accounts",
+    "expires": "2027-01-12",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 150,
+    "dns_resolved": false
+  },
+  {
+    "domain": "yenforgroup.com",
+    "company": "Yenfor Group",
+    "expires": "2027-09-25",
+    "current_status": "degraded",
+    "http_status": 403,
+    "latency_ms": 232,
+    "dns_resolved": true
+  },
+  {
+    "domain": "yenforventures.com",
+    "company": "Yenfor Group",
+    "expires": "2027-09-21",
+    "current_status": "degraded",
+    "http_status": 403,
+    "latency_ms": 467,
+    "dns_resolved": true
+  },
+  {
+    "domain": "asiafze.com",
+    "company": "Asia FZE",
+    "expires": "2027-05-27",
+    "current_status": "degraded",
+    "http_status": 200,
+    "latency_ms": 6419,
+    "dns_resolved": true
+  },
+  {
+    "domain": "foreseaglobal.com",
+    "company": "Foresea Global",
+    "expires": "2027-03-28",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 886,
+    "dns_resolved": true
+  },
+  {
+    "domain": "outplaychess.com",
+    "company": "Outplay Digital",
+    "expires": "2027-10-15",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 1305,
+    "dns_resolved": true
+  },
+  {
+    "domain": "outplaydigital.com",
+    "company": "Outplay Digital",
+    "expires": "2027-02-11",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 70,
+    "dns_resolved": false
+  },
+  {
+    "domain": "foodexgroup.in",
+    "company": "Foodex Group",
+    "expires": "2027-02-16",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 70,
+    "dns_resolved": false
+  },
+  {
+    "domain": "funmax.in",
+    "company": "Foodex Group",
+    "expires": "2026-11-26",
+    "current_status": "degraded",
+    "http_status": 403,
+    "latency_ms": 148,
+    "dns_resolved": true
+  },
+  {
+    "domain": "foodexfoodcourt.com",
+    "company": "Foodex Group",
+    "expires": "2027-08-29",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 910,
+    "dns_resolved": true
+  },
+  {
+    "domain": "meethalegroup.com",
+    "company": "Meethale Group",
+    "expires": "2027-07-01",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 77,
+    "dns_resolved": false
+  },
+  {
+    "domain": "meethalelogistics.com",
+    "company": "Meethale Logistics",
+    "expires": "2027-09-14",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 508,
+    "dns_resolved": true
+  },
+  {
+    "domain": "mefoman.com",
+    "company": "Middle East Furniture (MEF Oman)",
+    "expires": "2027-05-11",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 725,
+    "dns_resolved": true
+  },
+  {
+    "domain": "ashrayakannur.in",
+    "company": "Ashraya Kannur",
+    "expires": "2026-11-13",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 1230,
+    "dns_resolved": true
+  },
+  {
+    "domain": "patientteacher.com",
+    "company": "Patient Teacher (Manchester Healthcare)",
+    "expires": "2027-06-20",
+    "current_status": "degraded",
+    "http_status": 200,
+    "latency_ms": 7417,
+    "dns_resolved": true
+  },
+  {
+    "domain": "book.patientteacher.com",
+    "company": "Patient Teacher (Manchester Healthcare)",
+    "expires": "2027-08-10",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 181,
+    "dns_resolved": false
+  },
+  {
+    "domain": "childrencancer.in",
+    "company": "Manchester Healthcare Training Limited",
+    "expires": "2027-05-19",
+    "current_status": "degraded",
+    "http_status": 200,
+    "latency_ms": 6858,
+    "dns_resolved": true
+  },
+  {
+    "domain": "thalassemiaarabic.com",
+    "company": "Patient Teacher (Manchester Healthcare)",
+    "expires": "2026-11-08",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 2210,
+    "dns_resolved": true
+  },
+  {
+    "domain": "infothalassemia.com",
+    "company": "Patient Teacher (Manchester Healthcare)",
+    "expires": "2027-07-09",
+    "current_status": "down",
+    "http_status": 500,
+    "latency_ms": 4556,
+    "dns_resolved": true
+  },
+  {
+    "domain": "cheshirevillage.in",
+    "company": "Manchester Healthcare Training Limited",
+    "expires": "2027-02-01",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 4094,
+    "dns_resolved": true
+  },
+  {
+    "domain": "krmeera.in",
+    "company": "Webcoffee Innovations Pvt Ltd (K R Meera)",
+    "expires": "2026-11-12",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 69,
+    "dns_resolved": false
+  },
+  {
+    "domain": "krmeera.com",
+    "company": "K R Meera",
+    "expires": "2026-11-12",
+    "current_status": "degraded",
+    "http_status": 403,
+    "latency_ms": 664,
+    "dns_resolved": true
+  },
+  {
+    "domain": "atqalfitrah.org",
+    "company": "Al-Fitrah Foundation",
+    "expires": "2027-05-26",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 424,
+    "dns_resolved": true
+  },
+  {
+    "domain": "welfarecusat.in",
+    "company": "CUSAT University (Welfare)",
+    "expires": "2027-10-12",
+    "current_status": "down",
+    "http_status": 526,
+    "latency_ms": 180,
+    "dns_resolved": true
+  },
+  {
+    "domain": "qubestays.com",
+    "company": "QubeStays",
+    "expires": "2027-06-11",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 739,
+    "dns_resolved": true
+  },
+  {
+    "domain": "bkcsuites.com",
+    "company": "QubeStays (BKC Suites)",
+    "expires": "2027-09-28",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 1410,
+    "dns_resolved": true
+  },
+  {
+    "domain": "bkcsuites.in",
+    "company": "QubeStays (BKC Suites)",
+    "expires": "2027-03-11",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 24,
+    "dns_resolved": false
+  },
+  {
+    "domain": "wagonmart.in",
+    "company": "Wagonmart / IR Ventures",
+    "expires": "2027-06-26",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 830,
+    "dns_resolved": true
+  },
+  {
+    "domain": "daduclothing.com",
+    "company": "Dadu Clothing",
+    "expires": "2027-09-27",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 685,
+    "dns_resolved": true
+  },
+  {
+    "domain": "crietorgroup.com",
+    "company": "Crietor Group",
+    "expires": "2027-07-01",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 5000,
+    "dns_resolved": true
+  },
+  {
+    "domain": "janathadiagnostics.com",
+    "company": "Janatha Ventures",
+    "expires": "2026-11-21",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 2315,
+    "dns_resolved": true
+  },
+  {
+    "domain": "janathaventures.com",
+    "company": "Janatha Ventures",
+    "expires": "2027-04-27",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 259,
+    "dns_resolved": true
+  },
+  {
+    "domain": "satllcdubai.com",
+    "company": "SAT LLC Dubai",
+    "expires": "2030-04-29",
+    "current_status": "degraded",
+    "http_status": 200,
+    "latency_ms": 7236,
+    "dns_resolved": true
+  },
+  {
+    "domain": "regencyqa.com",
+    "company": "Regency Qatar",
+    "expires": "2028-10-03",
+    "current_status": "down",
+    "http_status": 526,
+    "latency_ms": 618,
+    "dns_resolved": true
+  },
+  {
+    "domain": "thegirlwrites.in",
+    "company": "The Girl Writes",
+    "expires": "2027-05-14",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 26,
+    "dns_resolved": false
+  },
+  {
+    "domain": "cluelesscompass.com",
+    "company": "Clueless Compass",
+    "expires": "2027-07-13",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 75,
+    "dns_resolved": false
+  },
+  {
+    "domain": "fathimahakkim.in",
+    "company": "Fathima Hakkim",
+    "expires": "2026-11-12",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 98,
+    "dns_resolved": false
+  },
+  {
+    "domain": "tcssindia.com",
+    "company": "TCSS India",
+    "expires": "2027-09-08",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 66,
+    "dns_resolved": false
+  },
+  {
+    "domain": "ahadbuilders.com",
+    "company": "Ahad Builders",
+    "expires": "2027-08-30",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 627,
+    "dns_resolved": true
+  },
+  {
+    "domain": "ahadserenity.com",
+    "company": "Ahad Builders",
+    "expires": "2027-03-16",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 2277,
+    "dns_resolved": true
+  },
+  {
+    "domain": "ahadexcellencia.com",
+    "company": "Ahad Builders",
+    "expires": "2026-11-25",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 1124,
+    "dns_resolved": true
+  },
+  {
+    "domain": "ahadeuphoria.com",
+    "company": "Ahad Builders",
+    "expires": "2026-11-12",
+    "current_status": "degraded",
+    "http_status": 200,
+    "latency_ms": 2546,
+    "dns_resolved": true
+  },
+  {
+    "domain": "ahadopus.com",
+    "company": "Ahad Builders",
+    "expires": "2027-03-28",
+    "current_status": "degraded",
+    "http_status": 200,
+    "latency_ms": 3104,
+    "dns_resolved": true
+  },
+  {
+    "domain": "ahadmeadows.com",
+    "company": "Ahad Builders",
+    "expires": "2027-06-02",
+    "current_status": "degraded",
+    "http_status": 200,
+    "latency_ms": 6077,
+    "dns_resolved": true
+  },
+  {
+    "domain": "ahadcity.com",
+    "company": "Ahad Builders",
+    "expires": "2027-01-31",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 750,
+    "dns_resolved": true
+  },
+  {
+    "domain": "ahadsoftware.com",
+    "company": "Ahad Builders",
+    "expires": "2027-02-13",
+    "current_status": "degraded",
+    "http_status": 403,
+    "latency_ms": 627,
+    "dns_resolved": true
+  },
+  {
+    "domain": "thinkreal.in",
+    "company": "Thinkreal Ventures",
+    "expires": "2027-09-25",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 251,
+    "dns_resolved": true
+  },
+  {
+    "domain": "thinkrealventures.com",
+    "company": "Thinkreal Ventures",
+    "expires": "2027-05-24",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 76,
+    "dns_resolved": false
+  },
+  {
+    "domain": "thinkrealprojects.com",
+    "company": "Thinkreal Ventures",
+    "expires": "2028-11-15",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 70,
+    "dns_resolved": false
+  },
+  {
+    "domain": "ahadbuilders.net",
+    "company": "Ahad Builders",
+    "expires": "2027-08-30",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 75,
+    "dns_resolved": false
+  },
+  {
+    "domain": "ahadserenity.in",
+    "company": "Ahad Builders",
+    "expires": "2027-03-16",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 75,
+    "dns_resolved": false
+  },
+  {
+    "domain": "ahadserenity.co.in",
+    "company": "Ahad Builders",
+    "expires": "2027-03-16",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 70,
+    "dns_resolved": false
+  },
+  {
+    "domain": "ahadserenity.org.in",
+    "company": "Ahad Builders",
+    "expires": "2027-01-08",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 271,
+    "dns_resolved": true
+  },
+  {
+    "domain": "ahadbuilders.in",
+    "company": "Ahad Builders",
+    "expires": "2027-08-30",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 680,
+    "dns_resolved": true
+  },
+  {
+    "domain": "ahadhills.com",
+    "company": "Ahad Builders",
+    "expires": "2027-09-07",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 124,
+    "dns_resolved": true
+  },
+  {
+    "domain": "thinkreal.ai",
+    "company": "Thinkreal Ventures",
+    "expires": "2028-02-27",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 1094,
+    "dns_resolved": true
+  },
+  {
+    "domain": "qiflalbaab.com",
+    "company": "Qifl Albaab",
+    "expires": "2028-06-02",
+    "current_status": "degraded",
+    "http_status": 403,
+    "latency_ms": 414,
+    "dns_resolved": true
+  },
+  {
+    "domain": "ahadorchid.com",
+    "company": "Ahad Builders",
+    "expires": "2026-12-23",
+    "current_status": "degraded",
+    "http_status": 200,
+    "latency_ms": 3794,
+    "dns_resolved": true
+  },
+  {
+    "domain": "ahadiris.com",
+    "company": "Ahad Builders",
+    "expires": "2027-09-15",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 211,
+    "dns_resolved": true
+  },
+  {
+    "domain": "ahadwoods.com",
+    "company": "Ahad Builders",
+    "expires": "2027-09-28",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 747,
+    "dns_resolved": true
+  },
+  {
+    "domain": "roldantz.com",
+    "company": "Roldantz Global",
+    "expires": "2027-10-24",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 1284,
+    "dns_resolved": true
+  },
+  {
+    "domain": "theroldantzglobal.com",
+    "company": "Roldantz Global",
+    "expires": "2027-08-16",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 35,
+    "dns_resolved": false
+  },
+  {
+    "domain": "roldantrejuvenation.com",
+    "company": "Roldantz Global",
+    "expires": "2027-11-01",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 814,
+    "dns_resolved": true
+  },
+  {
+    "domain": "roldantzglobal.com",
+    "company": "Roldantz Global",
+    "expires": "2027-08-28",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 107,
+    "dns_resolved": false
+  },
+  {
+    "domain": "hydakercalicut.com",
+    "company": "Hydaker Associates - Zakariah",
+    "expires": "2027-01-25",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 920,
+    "dns_resolved": true
+  },
+  {
+    "domain": "hydaker.com",
+    "company": "Hydaker Associates - Zakariah",
+    "expires": "2027-07-20",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 560,
+    "dns_resolved": true
+  },
+  {
+    "domain": "foxmer.com",
+    "company": "Foxmer",
+    "expires": "2027-08-28",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 833,
+    "dns_resolved": true
+  },
+  {
+    "domain": "airtics.org",
+    "company": "Airtics Education",
+    "expires": "2026-11-09",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 1784,
+    "dns_resolved": true
+  },
+  {
+    "domain": "inlearn.app",
+    "company": "InLearn",
+    "expires": "2027-09-27",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 11,
+    "dns_resolved": false
+  },
+  {
+    "domain": "ryanschool.org",
+    "company": "Ryan School",
+    "expires": "2027-04-10",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 977,
+    "dns_resolved": true
+  },
+  {
+    "domain": "cycleworld.in",
+    "company": "Cycle World",
+    "expires": "2028-07-13",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 145,
+    "dns_resolved": true
+  },
+  {
+    "domain": "gsportsbikes.com",
+    "company": "GSports Bikes",
+    "expires": "2029-08-31",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 1570,
+    "dns_resolved": true
+  },
+  {
+    "domain": "emiratesflowersonline.ae",
+    "company": "Emirates Flowers Online",
+    "expires": "2027-02-23",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 37,
+    "dns_resolved": false
+  },
+  {
+    "domain": "rafarazik.com",
+    "company": "Rafa Razik",
+    "expires": "2027-05-05",
+    "current_status": "down",
+    "http_status": 503,
+    "latency_ms": 2367,
+    "dns_resolved": true
+  },
+  {
+    "domain": "dotslighting.com",
+    "company": "Dots Lighting",
+    "expires": "2027-09-17",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 845,
+    "dns_resolved": true
+  },
+  {
+    "domain": "hindi.cusat.ac.in",
+    "company": "CUSAT University (Hindi Dept)",
+    "expires": "2028-02-28",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 3190,
+    "dns_resolved": true
+  },
+  {
+    "domain": "ghafservices.com",
+    "company": "Ghaf Services",
+    "expires": "2027-01-25",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 186,
+    "dns_resolved": true
+  },
+  {
+    "domain": "elmemento.com",
+    "company": "El Memento",
+    "expires": "2027-03-25",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 16,
+    "dns_resolved": false
+  },
+  {
+    "domain": "rubypeethambaran.com",
+    "company": "Ruby Peethambaran",
+    "expires": "2027-04-17",
+    "current_status": "down",
+    "http_status": 526,
+    "latency_ms": 464,
+    "dns_resolved": true
+  },
+  {
+    "domain": "ashtongray.in",
+    "company": "Ashton Gray",
+    "expires": "2026-12-06",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 1675,
+    "dns_resolved": true
+  },
+  {
+    "domain": "megatrade.in",
+    "company": "Mega Trade",
+    "expires": "2027-02-03",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 2399,
+    "dns_resolved": true
+  },
+  {
+    "domain": "kuniyaiasacademy.org",
+    "company": "Kuniya IAS Academy",
+    "expires": "2027-05-01",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 350,
+    "dns_resolved": true
+  },
+  {
+    "domain": "kuniyacollege.org",
+    "company": "Kuniya College",
+    "expires": "2031-05-01",
+    "current_status": "down",
+    "http_status": 503,
+    "latency_ms": 564,
+    "dns_resolved": true
+  },
+  {
+    "domain": "kahanievent.com",
+    "company": "Kahani Events",
+    "expires": "2027-04-30",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 15,
+    "dns_resolved": false
+  },
+  {
+    "domain": "arcanoeconsultants.com",
+    "company": "Arcanoe Consultants",
+    "expires": "2032-07-30",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 793,
+    "dns_resolved": true
+  },
+  {
+    "domain": "brighteducationsgroup.com",
+    "company": "Bright Educations Group",
+    "expires": "2027-05-12",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 15,
+    "dns_resolved": false
+  },
+  {
+    "domain": "scoutyhyde.com",
+    "company": "Scouty Hyde",
+    "expires": "2026-11-22",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 311,
+    "dns_resolved": true
+  },
+  {
+    "domain": "kuniyaiasexamination.org",
+    "company": "Kuniya IAS Academy",
+    "expires": "2027-06-16",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 344,
+    "dns_resolved": true
+  },
+  {
+    "domain": "mustardmil.com",
+    "company": "Mustard Mil",
+    "expires": "2027-09-11",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 5000,
+    "dns_resolved": true
+  },
+  {
+    "domain": "trss.ae",
+    "company": "TRSS UAE",
+    "expires": "2027-06-05",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 13,
+    "dns_resolved": false
+  },
+  {
+    "domain": "lavaultlondon.com",
+    "company": "La Vault London",
+    "expires": "2027-06-11",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 17,
+    "dns_resolved": false
+  },
+  {
+    "domain": "evimra.com",
+    "company": "Evimra",
+    "expires": "2027-04-04",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 498,
+    "dns_resolved": true
+  },
+  {
+    "domain": "firstoptiondxb.com",
+    "company": "First Option DXB",
+    "expires": "2027-10-26",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 1318,
+    "dns_resolved": true
+  },
+  {
+    "domain": "qaflalbaab.ae",
+    "company": "Qafl Albaab",
+    "expires": "2027-06-29",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 15,
+    "dns_resolved": false
+  },
+  {
+    "domain": "mineralroqapetroleum.com",
+    "company": "Mineral Roqa Petroleum",
+    "expires": "2027-07-05",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 14,
+    "dns_resolved": false
+  },
+  {
+    "domain": "mitkannur.ac.in",
+    "company": "MIT Kannur",
+    "expires": "2027-08-27",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 1670,
+    "dns_resolved": true
+  },
+  {
+    "domain": "nikshanonline.com",
+    "company": "Nikshan Electronics",
+    "expires": "2027-04-20",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 453,
+    "dns_resolved": true
+  },
+  {
+    "domain": "t2tphotography.com",
+    "company": "T2T Photography",
+    "expires": "2027-10-18",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 2192,
+    "dns_resolved": true
+  },
+  {
+    "domain": "aguaindia.com",
+    "company": "Agua India",
+    "expires": "2026-09-21",
+    "current_status": "degraded",
+    "http_status": 200,
+    "latency_ms": 4050,
+    "dns_resolved": true
+  },
+  {
+    "domain": "findandpark.in",
+    "company": "Find and Park",
+    "expires": "2028-02-22",
+    "current_status": "degraded",
+    "http_status": 403,
+    "latency_ms": 399,
+    "dns_resolved": true
+  },
+  {
+    "domain": "bluelineinteriorsofc.com",
+    "company": "Blueline Interiors",
+    "expires": "2027-05-16",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 2399,
+    "dns_resolved": true
+  },
+  {
+    "domain": "library.tinkerhub.org",
+    "company": "TinkerHub Foundation",
+    "expires": "2027-08-16",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 55,
+    "dns_resolved": false
+  },
+  {
+    "domain": "megadiamond.ae",
+    "company": "Mega Diamond LLC",
+    "expires": "2027-08-22",
+    "current_status": "degraded",
+    "http_status": 200,
+    "latency_ms": 4983,
+    "dns_resolved": true
+  },
+  {
+    "domain": "spurtlab.com",
+    "company": "Spurt Lab",
+    "expires": "2027-11-10",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 68,
+    "dns_resolved": false
+  },
+  {
+    "domain": "thespurtlab.com",
+    "company": "Spurt Lab",
+    "expires": "2027-11-10",
+    "current_status": "degraded",
+    "http_status": 403,
+    "latency_ms": 446,
+    "dns_resolved": true
+  },
+  {
+    "domain": "abd-lb.com",
+    "company": "ABD LB",
+    "expires": "2027-11-15",
+    "current_status": "down",
+    "http_status": 404,
+    "latency_ms": 325,
+    "dns_resolved": true
+  },
+  {
+    "domain": "lovault.uk",
+    "company": "Lo Vault UK",
+    "expires": "2027-09-15",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 63,
+    "dns_resolved": false
+  },
+  {
+    "domain": "lovault.co.uk",
+    "company": "Lo Vault UK",
+    "expires": "2027-09-21",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 57,
+    "dns_resolved": false
+  },
+  {
+    "domain": "wilabs.ae",
+    "company": "WI Labs",
+    "expires": "2027-09-27",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 2109,
+    "dns_resolved": true
+  },
+  {
+    "domain": "wilabs.in",
+    "company": "WI Labs",
+    "expires": "2027-01-23",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 67,
+    "dns_resolved": false
+  },
+  {
+    "domain": "millioncoders.org",
+    "company": "Million Coders",
+    "expires": "2027-09-18",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 1502,
+    "dns_resolved": true
+  },
+  {
+    "domain": "opencoders.org",
+    "company": "Open Coders",
+    "expires": "2027-03-11",
+    "current_status": "down",
+    "http_status": 525,
+    "latency_ms": 273,
+    "dns_resolved": true
+  },
+  {
+    "domain": "wayneintelligence.com",
+    "company": "Wayne Intelligence",
+    "expires": "2027-03-17",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 1508,
+    "dns_resolved": true
+  },
+  {
+    "domain": "edowl.ai",
+    "company": "Edowl AI",
+    "expires": "2027-01-08",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 375,
+    "dns_resolved": true
+  },
+  {
+    "domain": "riskmagic.ai",
+    "company": "Risk Magic AI",
+    "expires": "2027-03-07",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 68,
+    "dns_resolved": false
+  },
+  {
+    "domain": "lovault.in",
+    "company": "Lo Vault India",
+    "expires": "2026-11-13",
+    "current_status": "degraded",
+    "http_status": 200,
+    "latency_ms": 6177,
+    "dns_resolved": true
+  },
+  {
+    "domain": "fiveniners.com",
+    "company": "Five Niners",
+    "expires": "2027-08-10",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 234,
+    "dns_resolved": true
+  },
+  {
+    "domain": "airticsedu.ae",
+    "company": "Airtics Education",
+    "expires": "2027-03-25",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 73,
+    "dns_resolved": false
+  },
+  {
+    "domain": "satcare.ae",
+    "company": "SAT Care UAE",
+    "expires": "2027-03-31",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 686,
+    "dns_resolved": true
+  },
+  {
+    "domain": "megadiamondllc.ae",
+    "company": "Mega Diamond LLC",
+    "expires": "2027-04-06",
+    "current_status": "degraded",
+    "http_status": 200,
+    "latency_ms": 8248,
+    "dns_resolved": true
+  },
+  {
+    "domain": "mindforge.ae",
+    "company": "Mindforge UAE",
+    "expires": "2027-04-12",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 155,
+    "dns_resolved": false
+  },
+  {
+    "domain": "edone.app",
+    "company": "EdOne App",
+    "expires": "2027-03-12",
+    "current_status": "degraded",
+    "http_status": 200,
+    "latency_ms": 6217,
+    "dns_resolved": true
+  },
+  {
+    "domain": "alnaassportsae.com",
+    "company": "Al Naas Sports UAE",
+    "expires": "2027-03-09",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 1899,
+    "dns_resolved": true
+  },
+  {
+    "domain": "foremanqa.com",
+    "company": "Foreman Qatar",
+    "expires": "2027-05-26",
+    "current_status": "down",
+    "http_status": 0,
+    "latency_ms": 65,
+    "dns_resolved": false
+  },
+  {
+    "domain": "cedarmw.com",
+    "company": "Cedar MW",
+    "expires": "2027-06-09",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 2371,
+    "dns_resolved": true
+  },
+  {
+    "domain": "hireparrot.com",
+    "company": "Hire Parrot",
+    "expires": "2027-04-25",
+    "current_status": "online",
+    "http_status": 200,
+    "latency_ms": 357,
+    "dns_resolved": true
+  }
+]
